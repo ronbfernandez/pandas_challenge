@@ -1,0 +1,12 @@
+
+
+Observable Trends for Hereoes Of Pymoli Data
+--------------------
+
+1) The majority of Heroes Of Pymoli players are dominantly male (84%). 
+There is a notable proportion of female players, however still they are at a significantly lower percentage.(14%).
+
+2) The peak age demographic for players fall between 20-24 (44.79%) with secondary groups falling between 15-19 (18.58%) and 25-29 (13.37%).
+
+3) The most popular and most profitable item is the "Final Critic" with a purchase count of 13 and total purchase value a $59.99.  It is followed closely by the item "Oathbreaker, Last Hope of the Breaking Storm" which had a purchase count of 12 total, and a total purchase value of $50.76
+
